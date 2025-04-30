@@ -1,24 +1,225 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhupendra+Dewangan;A+Passionate+Frontend+Developer" alt="Typing SVG" /> <p> <img src="https://komarev.com/ghpvc/?username=bhupendra1234&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p> <img src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" alt="coding animation" width="400" /> </div>
-👨‍💻 About Me
-🔭 I'm currently working on Vision IAS
-🌱 I'm currently learning MERN Stack
-💬 Ask me about React.js, Next.js
-📫 Reach me at bhupendradewangan1998@gmail.com
-🛠️ Tech Stack
-<div align="center"> <table> <tr> <td valign="top" width="33%"> <h3 align="center">Frontend</h3> <div align="center"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </div> </td> <td valign="top" width="33%"> <h3 align="center">Backend</h3> <div align="center"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </div> </td> <td valign="top" width="33%"> <h3 align="center">Other</h3> <div align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </div> </td> </tr> </table> </div>
-🔗 Connect With Me
-<div align="center"> <a href="https://linkedin.com/in/bhupendra-dewangan-31a055197/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/bhupendra_1609" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://www.leetcode.com/ragnarlothbrok" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/> </a> <a href="https://auth.geeksforgeeks.org/user/bhupendra19" target="_blank"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/> </a> <a href="mailto:bhupendradewangan1998@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </div>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhupendra1234&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupendra1234&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendra1234&theme=tokyonight" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=bhupendra1234&theme=tokyonight&row=1&column=6" alt="trophy" /> </div> ```
-This modern README design includes:
+<div align="center">
+  <!-- Custom Banner with Modern Typography -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bhupendra%20Dewangan&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
+  
+  <!-- Modern Subtitle with Dev Icons -->
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Frontend Developer from India 
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+  </h2>
+  
+  <!-- Profile Views Counter with Modern Badge -->
+  <img src="https://komarev.com/ghpvc/?username=bhupendra1234&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  
+  <!-- Animated Coding GIF in a Frame -->
+  <img src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" alt="coding animation" width="400" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 10px 30px -15px rgba(0, 0, 0, 0.5);" />
+</div>
 
-Animated typing header - Creates a dynamic introduction
-Organized sections - Clear visual hierarchy with emoji icons for each section
-Tech stack organized in tables - Categorized by frontend, backend, and other skills
-Modern social media badges - Using shields.io for a consistent, colorful look
-Themed GitHub stats - Using the Tokyo Night theme for a cohesive look
-GitHub trophy display - Shows your achievements in a visual way
-Improved spacing and alignment - Better visual organization throughout
-The design preserves all your original information while presenting it in a more visually appealing way that will stand out among GitHub profiles.
+<!-- Modern Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<Actions> <Action name="Add GitHub activity graph" description="Add a contribution activity graph to showcase your GitHub activity" /> <Action name="Include project highlights" description="Add a section showcasing your top projects with descriptions" /> <Action name="Add custom badges" description="Include custom skill badges for technologies you work with" /> <Action name="Create a workflow status section" description="Add GitHub workflow status badges for your repositories" /> <Action name="Add a 'Currently working on' section" description="Create a dynamic section showing what you're currently focused on" /> </Actions>
+<!-- About Me Section with Modern Icons -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 
+  <b>About Me</b>
+</h2>
+
+<!-- Two-column layout for About Me -->
+<div align="center">
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=bhupendra1234&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  
+  <ul align="left" style="list-style-type: none; padding-left: 20px;">
+    <li>
+      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Telescope.png" width="25" /> I'm currently working on <b>Vision IAS</b>
+    </li>
+    <li>
+      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Seedling.png" width="25" /> I'm currently learning <b>MERN Stack</b>
+    </li>
+    <li>
+      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Speech%20Balloon.png" width="25" /> Ask me about <b>React.js, Next.js</b>
+    </li>
+    <li>
+      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Envelope.png" width="25" /> Reach me at <b>bhupendradewangan1998@gmail.com</b>
+    </li>
+  </ul>
+</div>
+
+<!-- Modern Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Tech Stack Section with Modern Icons -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 
+  <b>Tech Stack</b>
+</h2>
+
+<div align="center">
+  <!-- Frontend -->
+  <h3>
+    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Desktop%20Computer.png" width="25" /> 
+    Frontend
+  </h3>
+  
+  <p>
+    <a href="https://reactjs.org/" target="_blank">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+    </a>
+  </p>
+  
+  <!-- Backend -->
+  <h3>
+    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Gear.png" width="25" /> 
+    Backend
+  </h3>
+  
+  <p>
+    <a href="https://nodejs.org" target="_blank">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    </a>
+    <a href="https://expressjs.com" target="_blank">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    </a>
+  </p>
+  
+  <!-- Databases -->
+  <h3>
+    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Card%20File%20Box.png" width="25" /> 
+    Databases
+  </h3>
+  
+  <p>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+    </a>
+    <a href="https://www.postgresql.org" target="_blank">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+    </a>
+    <a href="https://firebase.google.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
+    </a>
+  </p>
+  
+  <!-- Other Skills -->
+  <h3>
+    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> 
+    Other Skills
+  </h3>
+  
+  <p>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+    </a>
+  </p>
+</div>
+
+<!-- Modern Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Connect With Me Section with Modern Icons -->
+<h2 align="center">
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Hand%20gestures/Handshake.png" width="25"> 
+  <b>Connect With Me</b>
+</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/bhupendra-dewangan-31a055197/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/bhupendra_1609" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.leetcode.com/ragnarlothbrok" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/bhupendra19" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="mailto:bhupendradewangan1998@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+<!-- Modern Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Stats Section with Modern Visualization -->
+<h2 align="center">
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Bar%20Chart.png" width="25"> 
+  <b>GitHub Stats</b>
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendra1234&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendra1234&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
+</div>
+
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Bhupendra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bhupendra1234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhupendra1234&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+```
+
+## Key Modern Features in This Design:
+
+1. **Animated Header & Footer Banners** - Eye-catching gradient wave design that frames your profile
+
+2. **Animated Emoji Icons** - Using high-quality animated emojis from Fluent Emoji collection for section headers
+
+3. **Modern Shield Badges** - Replaced all technology icons with modern, consistent shield-style badges that have a cohesive look
+
+4. **Visual Section Dividers** - Animated dividers between sections for better visual organization
+
+5. **Enhanced Layout** - Better spacing, alignment, and visual hierarchy throughout
+
+6. **Animated GitHub Activity Graph** - Shows your contribution activity in a visually appealing way
+
+7. **Frameless GitHub Trophies** - Clean, modern display of your GitHub achievements
+
+8. **Gradient Color Scheme** - Consistent color theme throughout with modern gradients
+
+9. **Animated Elements** - Several subtle animations that make your profile feel dynamic
+
+10. **Better Visual Balance** - Improved layout with right-aligned stats next to your about section
+
+This design is significantly more modern and visually appealing while maintaining all your original information. The consistent use of modern badges, animated elements, and a cohesive color scheme creates a professional and attractive GitHub profile that will stand out.
+
+<Actions>
+  <Action name="Add skill progress bars" description="Include visual progress bars for your skill proficiency levels" />
+  <Action name="Create a projects showcase" description="Add a section with cards showcasing your top projects" />
+  <Action name="Add custom workflow status" description="Include GitHub workflow status badges for your repositories" />
+  <Action name="Create a timeline section" description="Add a visual timeline of your career/education journey" />
+  <Action name="Add a 'Buy Me A Coffee' button" description="Include a support button for visitors who want to support your work" />
+</Actions>
+
+```
+
