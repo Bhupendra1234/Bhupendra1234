@@ -64,8 +64,8 @@
     <a href="https://www.w3.org/html/" target="_blank">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://img.shields.io/badge/TaiwindCSS-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
@@ -85,9 +85,6 @@
     <a href="https://expressjs.com" target="_blank">
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
     </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    </a>
   </p>
  
   <!-- Databases -->
@@ -100,8 +97,8 @@
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
     </a>
-    <a href="https://www.postgresql.org" target="_blank">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+     <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
     </a>
     <a href="https://firebase.google.com/" target="_blank">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
