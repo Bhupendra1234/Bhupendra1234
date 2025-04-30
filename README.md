@@ -15,20 +15,27 @@
 <div align="center">
   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=bhupendra1234&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
  
-  <ul align="left" style="list-style-type: none; padding-left: 20px;">
-    <li>
-      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Telescope.png" width="25" /> I'm currently working on <b>Vision IAS</b>
-    </li>
-    <li>
-      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Seedling.png" width="25" /> I'm currently learning <b>MERN Stack</b>
-    </li>
-    <li>
-      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Speech%20Balloon.png" width="25" /> Ask me about <b>React.js, Next.js</b>
-    </li>
-    <li>
-      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Envelope.png" width="25" /> Reach me at <b>bhupendradewangan1998@gmail.com</b>
-    </li>
-  </ul>
+<ul align="left" style="list-style-type: none; padding-left: 20px;">
+  <li>
+    <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f52d.png" width="20" /> I'm currently working at <b>Vision IAS</b>
+  </li>
+  <li>
+    <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f331.png" width="20" /> Full-Stack Developer | JavaScript, TypeScript, React, Node.js
+  </li>
+  <li>
+    <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f310.png" width="20" /> Working with REST & GraphQL | MongoDB | SQL
+  </li>
+  <li>
+    <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4ac.png" width="20" /> Ask me about <b>React.js, Next.js</b>
+  </li>
+  <li>
+    <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f680.png" width="20" /> Exploring Web Performance, DevOps & Cloud
+  </li>
+  <li>
+    <img src="https://twemoji.maxcdn.com/v/latest/72x72/2709.png" width="20" /> Reach me at <b>bhupendradewangan1998@gmail.com</b>
+  </li>
+</ul>
+
 </div>
  
 <!-- Modern Divider -->
