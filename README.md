@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Custom Banner with Modern Typography -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bhupendra%20Dewangan&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full-Stack%20Developer&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
  
 <!-- Modern Divider -->
