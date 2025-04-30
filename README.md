@@ -1,17 +1,14 @@
-<!-- Header with SVG -->
 <div align="center">
-  <h1>
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Bhupendra Dewangan
-  </h1>
-  <p>Full-Stack Developer | React | Next.js | Node.js</p>
+  <!-- Custom Banner with Modern Typography -->
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/custom-banner.svg" width="100%" />
 </div>
-
-<!-- Divider -->
-<hr>
  
-<!-- About Me Section -->
+<!-- Modern Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
+<!-- About Me Section with Modern Icons -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="25">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="25">
   <b>About Me</b>
 </h2>
  
@@ -21,10 +18,10 @@
  
   <ul align="left" style="list-style-type: none; padding-left: 20px;">
     <li>
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="25" /> I'm currently working on <b>Vision IAS</b>
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="25" /> I'm currently working on <b>Vision IAS</b>
     </li>
     <li>
-      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="25" /> I'm currently learning <b>MERN Stack</b>
+      <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Earth.gif" width="25" /> I'm currently learning <b>MERN Stack</b>
     </li>
     <li>
       <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" width="25" /> Ask me about <b>React.js, Next.js</b>
@@ -35,12 +32,12 @@
   </ul>
 </div>
  
-<!-- Divider -->
-<hr>
+<!-- Modern Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-<!-- Tech Stack Section -->
+<!-- Tech Stack Section with Modern Icons -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="25">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25">
   <b>Tech Stack</b>
 </h2>
  
@@ -122,177 +119,12 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
     </a>
   </p>
-
-  <!-- Skill Progress Bars -->
-  <h3>
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="25" />
-    Skills Proficiency
-  </h3>
-
-  <div align="center" style="width: 80%; margin: 0 auto;">
-    <div style="display: flex; align-items: center; margin-bottom: 8px;">
-      <span style="width: 100px; text-align: right; margin-right: 10px;">React.js</span>
-      <div style="flex-grow: 1; background-color: #2D2D2D; border-radius: 5px; height: 25px;">
-        <div style="width: 90%; background-color: #61DAFB; height: 100%; border-radius: 5px; display: flex; align-items: center;">
-          <span style="margin-left: 10px; color: #000;">90%</span>
-        </div>
-      </div>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 8px;">
-      <span style="width: 100px; text-align: right; margin-right: 10px;">Next.js</span>
-      <div style="flex-grow: 1; background-color: #2D2D2D; border-radius: 5px; height: 25px;">
-        <div style="width: 85%; background-color: #000000; height: 100%; border-radius: 5px; display: flex; align-items: center;">
-          <span style="margin-left: 10px; color: #fff;">85%</span>
-        </div>
-      </div>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 8px;">
-      <span style="width: 100px; text-align: right; margin-right: 10px;">Node.js</span>
-      <div style="flex-grow: 1; background-color: #2D2D2D; border-radius: 5px; height: 25px;">
-        <div style="width: 80%; background-color: #339933; height: 100%; border-radius: 5px; display: flex; align-items: center;">
-          <span style="margin-left: 10px; color: #fff;">80%</span>
-        </div>
-      </div>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 8px;">
-      <span style="width: 100px; text-align: right; margin-right: 10px;">MongoDB</span>
-      <div style="flex-grow: 1; background-color: #2D2D2D; border-radius: 5px; height: 25px;">
-        <div style="width: 75%; background-color: #4EA94B; height: 100%; border-radius: 5px; display: flex; align-items: center;">
-          <span style="margin-left: 10px; color: #fff;">75%</span>
-        </div>
-      </div>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 8px;">
-      <span style="width: 100px; text-align: right; margin-right: 10px;">C++</span>
-      <div style="flex-grow: 1; background-color: #2D2D2D; border-radius: 5px; height: 25px;">
-        <div style="width: 70%; background-color: #00599C; height: 100%; border-radius: 5px; display: flex; align-items: center;">
-          <span style="margin-left: 10px; color: #fff;">70%</span>
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
  
-<!-- Divider -->
-<hr>
-
-<!-- Projects Showcase -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" width="25">
-  <b>Featured Projects</b>
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 1</h3>
-        <div align="center">
-          <a href="https://github.com/bhupendra1234/project1" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="100" alt="Project 1"/>
-          </a>
-          <p>
-            <a href="https://github.com/bhupendra1234/project1" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-            </a>
-            <a href="https://project1-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel"/>
-            </a>
-          </p>
-          <p><strong>React.js, Node.js, MongoDB</strong> - A full-stack web application for task management with real-time updates.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 2</h3>
-        <div align="center">
-          <a href="https://github.com/bhupendra1234/project2" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="100" alt="Project 2"/>
-          </a>
-          <p>
-            <a href="https://github.com/bhupendra1234/project2" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-            </a>
-            <a href="https://project2-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel"/>
-            </a>
-          </p>
-          <p><strong>Next.js, Firebase</strong> - An e-commerce platform with user authentication and product management.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 3</h3>
-        <div align="center">
-          <a href="https://github.com/bhupendra1234/project3" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="100" alt="Project 3"/>
-          </a>
-          <p>
-            <a href="https://github.com/bhupendra1234/project3" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-            </a>
-            <a href="https://project3-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel"/>
-            </a>
-          </p>
-          <p><strong>React Native, Express</strong> - A mobile application for fitness tracking with workout plans.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 4</h3>
-        <div align="center">
-          <a href="https://github.com/bhupendra1234/project4" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="100" alt="Project 4"/>
-          </a>
-          <p>
-            <a href="https://github.com/bhupendra1234/project4" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-            </a>
-            <a href="https://project4-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel"/>
-            </a>
-          </p>
-          <p><strong>TypeScript, GraphQL</strong> - A dashboard for data visualization with multiple chart types.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Divider -->
-<hr>
-
-<!-- Career Timeline -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Earth.gif" width="25">
-  <b>My Journey</b>
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>2022 - Present</td>
-      <td><strong>Full Stack Developer</strong> at Vision IAS</td>
-    </tr>
-    <tr>
-      <td>2020 - 2022</td>
-      <td><strong>Frontend Developer</strong> at XYZ Tech</td>
-    </tr>
-    <tr>
-      <td>2018 - 2020</td>
-      <td><strong>Computer Science</strong> at ABC University</td>
-    </tr>
-    <tr>
-      <td>2016 - 2018</td>
-      <td><strong>Associate Developer</strong> at PQR Solutions</td>
-    </tr>
-  </table>
-</div>
-
-<!-- Divider -->
-<hr>
+<!-- Modern Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-<!-- Connect With Me Section -->
+<!-- Connect With Me Section with Modern Icons -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="25">
   <b>Connect With Me</b>
@@ -315,19 +147,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-
-<!-- Support Section -->
-<div align="center">
-  <h3>Support My Work</h3>
-  <a href="https://www.buymeacoffee.com/bhupendra" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
-  </a>
-</div>
  
-<!-- Divider -->
-<hr>
+<!-- Modern Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats Section with Modern Visualization -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width="25">
   <b>GitHub Stats</b>
@@ -340,20 +164,14 @@
 </div>
  
 <!-- GitHub Activity Graph -->
-[![Bhupendra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhupendra1234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Bhupendra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bhupendra1234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
  
 <!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhupendra1234&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
-
-<!-- Divider -->
-<hr>
-
-<!-- Visitor Count -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhupendra1234&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitor Count" />
-</div>
-
-<!-- Footer -->
-<h3 align="center">Thanks for visiting! 👋</h3>
+ 
+<!-- Footer Banner -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f2e3165826e272eb712cb4c6c213cc54c77d17/assets/footer.svg" width="100%">
