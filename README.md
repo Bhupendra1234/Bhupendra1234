@@ -74,7 +74,7 @@
  
   <!-- Backend -->
   <h3>
-    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Gear.png" width="25" />
+    ⚙️
     Backend
   </h3>
  
