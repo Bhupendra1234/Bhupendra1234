@@ -1,37 +1,24 @@
-<h1 align="center">Hi 👋, I'm Bhupendra Dewangan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align='right' alt="coding"  width="400" src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" />
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhupendra+Dewangan;A+Passionate+Frontend+Developer" alt="Typing SVG" /> <p> <img src="https://komarev.com/ghpvc/?username=bhupendra1234&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p> <img src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" alt="coding animation" width="400" /> </div>
+👨‍💻 About Me
+🔭 I'm currently working on Vision IAS
+🌱 I'm currently learning MERN Stack
+💬 Ask me about React.js, Next.js
+📫 Reach me at bhupendradewangan1998@gmail.com
+🛠️ Tech Stack
+<div align="center"> <table> <tr> <td valign="top" width="33%"> <h3 align="center">Frontend</h3> <div align="center"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </div> </td> <td valign="top" width="33%"> <h3 align="center">Backend</h3> <div align="center"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </div> </td> <td valign="top" width="33%"> <h3 align="center">Other</h3> <div align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </div> </td> </tr> </table> </div>
+🔗 Connect With Me
+<div align="center"> <a href="https://linkedin.com/in/bhupendra-dewangan-31a055197/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/bhupendra_1609" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://www.leetcode.com/ragnarlothbrok" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/> </a> <a href="https://auth.geeksforgeeks.org/user/bhupendra19" target="_blank"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/> </a> <a href="mailto:bhupendradewangan1998@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhupendra1234&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupendra1234&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendra1234&theme=tokyonight" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=bhupendra1234&theme=tokyonight&row=1&column=6" alt="trophy" /> </div> ```
+This modern README design includes:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupendra1234&label=Profile%20views&color=0e75b6&style=flat" alt="bhupendra1234" /> </p>
+Animated typing header - Creates a dynamic introduction
+Organized sections - Clear visual hierarchy with emoji icons for each section
+Tech stack organized in tables - Categorized by frontend, backend, and other skills
+Modern social media badges - Using shields.io for a consistent, colorful look
+Themed GitHub stats - Using the Tokyo Night theme for a cohesive look
+GitHub trophy display - Shows your achievements in a visual way
+Improved spacing and alignment - Better visual organization throughout
+The design preserves all your original information while presenting it in a more visually appealing way that will stand out among GitHub profiles.
 
-- 🔭 I’m currently working on **Vision IAS**
-
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **React js, Next js**
-
-- 📫 How to reach me **bhupendradewangan1998@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhupendra-dewangan-31a055197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhupendra-dewangan-31a055197/" height="30" width="40" /></a>
-<a href="https://instagram.com/bhupendra_1609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhupendra_1609" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ragnarlothbrok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragnarlothbrok" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bhupendra19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhupendra19" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupendra1234&show_icons=true&locale=en&layout=compact" alt="bhupendra1234" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupendra1234&show_icons=true&locale=en" alt="bhupendra1234" /></p>
+<Actions> <Action name="Add GitHub activity graph" description="Add a contribution activity graph to showcase your GitHub activity" /> <Action name="Include project highlights" description="Add a section showcasing your top projects with descriptions" /> <Action name="Add custom badges" description="Include custom skill badges for technologies you work with" /> <Action name="Create a workflow status section" description="Add GitHub workflow status badges for your repositories" /> <Action name="Add a 'Currently working on' section" description="Create a dynamic section showing what you're currently focused on" /> </Actions>
