@@ -20,19 +20,19 @@
     🔭 I'm currently working at <b>Vision IAS</b>
   </li>
   <li>
-    <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f331.png" width="20" /> Full-Stack Developer | JavaScript, TypeScript, React, Node.js
+    🌱 Full-Stack Developer | JavaScript, TypeScript, React, Node.js
   </li>
   <li>
-    <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f310.png" width="20" /> Working with REST & GraphQL | MongoDB | SQL
+    🌐 Working with REST & GraphQL | MongoDB | SQL
   </li>
   <li>
-    <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4ac.png" width="20" /> Ask me about <b>React.js, Next.js</b>
+   💬 Ask me about <b>React.js, Next.js, Node.js</b>
   </li>
   <li>
-    <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f680.png" width="20" /> Exploring Web Performance, DevOps & Cloud
+    🚀 Exploring Web Performance, DevOps & Cloud
   </li>
   <li>
-    <img src="https://twemoji.maxcdn.com/v/latest/72x72/2709.png" width="20" /> Reach me at <b>bhupendradewangan1998@gmail.com</b>
+    ✉️ Reach me at <b>bhupendradewangan1998@gmail.com</b>
   </li>
 </ul>
 
