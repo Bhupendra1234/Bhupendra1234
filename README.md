@@ -17,7 +17,7 @@
  
 <ul align="left" style="list-style-type: none; padding-left: 20px;">
   <li>
-    <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f52d.png" width="20" /> I'm currently working at <b>Vision IAS</b>
+    🔭 I'm currently working at <b>Vision IAS</b>
   </li>
   <li>
     <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f331.png" width="20" /> Full-Stack Developer | JavaScript, TypeScript, React, Node.js
