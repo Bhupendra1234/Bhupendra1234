@@ -1,4 +1,8 @@
 <div align="center">
+  <!-- Custom Banner with Modern Typography -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bhupendra%20Dewangan&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
+ 
+  <!-- Modern Subtitle with Dev Icons -->
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Frontend Developer from India
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
@@ -8,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=bhupendra1234&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
  
   <!-- Animated Coding GIF in a Frame -->
-  <img src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" alt="coding animation" width="400" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 10px 30px -15px rgba(0, 0, 0, 0.5);" />
 </div>
  
 <!-- Modern Divider -->
