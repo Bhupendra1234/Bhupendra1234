@@ -20,7 +20,7 @@
     🔭 I'm currently working at <b>Vision IAS</b>
   </li>
   <li>
-    🌱 Full-Stack Developer | JavaScript, TypeScript, React, Node.js
+    🌱  <b> Full-Stack Developer</b> | JavaScript, TypeScript, Next.js, React, Node.js
   </li>
   <li>
     🌐 Working with REST & GraphQL | MongoDB | SQL
