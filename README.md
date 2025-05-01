@@ -161,7 +161,6 @@
 </h2>
  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendra1234&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendra1234&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
 </div>
@@ -172,9 +171,7 @@
 </a>
  
 <!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhupendra1234&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
+
  
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
