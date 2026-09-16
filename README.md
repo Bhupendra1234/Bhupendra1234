@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bhupendra Dewangan 👋</h1>
 
-<h3 align="center">Senior Frontend Engineer | React.js • Next.js • TypeScript • MERN Stack</h3>
+<h3 align="center">Senior Software Developer | React.js • Next.js • TypeScript • MERN Stack</h3>
 
 <p align="center">
   I build scalable, accessible, and high-performance web applications with a strong focus on frontend architecture and user experience.
