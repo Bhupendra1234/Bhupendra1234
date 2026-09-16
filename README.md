@@ -90,26 +90,6 @@ Custom Video Player
 
 Created an HLS video player with adaptive quality selection, keyboard shortcuts, picture-in-picture, fullscreen support, buffering indicators, mobile controls, and native iOS HLS fallback.
 
-GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhupendra1234&show_icons=true&theme=github_dark&hide_border=true" alt="Bhupendra's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra1234&layout=compact&theme=github_dark&hide_border=true" alt="Bhupendra's most-used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupendra1234&theme=github-compact&hide_border=true" alt="Bhupendra's GitHub contribution graph" />
-</p>
-
-Connect With Me
-
-LinkedIn
-
-Email
-
-LeetCode
-
-GeeksforGeeks
 
 <p align="center">
   <i>Open to collaborating on modern web applications, frontend architecture, and AI-powered products.</i>
