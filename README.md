@@ -20,7 +20,7 @@
 
 About Me
 
-💻 Frontend-focused Full-Stack Engineer with 5+ years of professional experience
+💻 Software Engineer with 5+ years of professional experience
 
 ⚛️ Specialized in React.js, Next.js, JavaScript, TypeScript, and modern UI architecture
 
