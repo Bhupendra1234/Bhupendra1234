@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bhupendra Dewangan 👋</h1>
 
-<h3 align="center">Software Engineer | React.js • Next.js • Node.js • TypeScript</h3>
+<h3 align="center">Senior Software Engineer | React.js • Next.js • Node.js • TypeScript</h3>
 
 <p align="center">
   I build web applications end to end, from responsive interfaces and frontend architecture to APIs, databases, authentication, and production deployments.
